@@ -1,0 +1,71 @@
+/* Custom CSS for MARV ReadTheDocs Documentation */
+.wy-nav-content {
+    max-width: 1100px !important;
+}
+
+/* Custom Callout / Admonition Styling */
+.rst-content .admonition {
+    border-radius: 6px;
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+    margin-bottom: 1.5em;
+}
+
+.rst-content .admonition.note {
+    border-left: 5px solid #3b82f6;
+    background-color: #eff6ff;
+}
+
+.rst-content .admonition.tip {
+    border-left: 5px solid #10b981;
+    background-color: #ecfdf5;
+}
+
+.rst-content .admonition.important {
+    border-left: 5px solid #8b5cf6;
+    background-color: #f5f3ff;
+}
+
+.rst-content .admonition.warning {
+    border-left: 5px solid #f59e0b;
+    background-color: #fffbeb;
+}
+
+.rst-content .admonition.danger {
+    border-left: 5px solid #ef4444;
+    background-color: #fef2f2;
+}
+
+/* Image styling */
+.rst-content img {
+    border: 1px solid #e5e7eb;
+    border-radius: 8px;
+    box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1);
+    margin-top: 1em;
+    margin-bottom: 1em;
+    max-width: 100%;
+}
+
+/* Code Block Styling */
+.rst-content pre.literal-block, .rst-content div[class^='highlight'] {
+    border-radius: 8px;
+    border: 1px solid #374151;
+}
+
+/* Badges */
+.badge-cloud {
+    background-color: #3b82f6;
+    color: white;
+    padding: 2px 8px;
+    border-radius: 12px;
+    font-size: 0.85em;
+    font-weight: 600;
+}
+
+.badge-lock {
+    background-color: #f59e0b;
+    color: white;
+    padding: 2px 8px;
+    border-radius: 12px;
+    font-size: 0.85em;
+    font-weight: 600;
+}

@@ -1,0 +1,11 @@
+# Python & venv
+.venv/
+__pycache__/
+*.pyc
+
+# Sphinx build outputs
+docs/build/
+.doctrees/
+
+# System files
+.DS_Store
