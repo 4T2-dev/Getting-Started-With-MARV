@@ -21,12 +21,17 @@ MARV bridges the gap between educational instructions and practical coding. Inst
 Key Features & Workflow
 -----------------------
 
-* **VS Code Integration:** Native sidebar viewer pane with auto-synchronized navigation.
-* **Simple Installation:** Manual VSIX extension setup directly within VS Code.
-* **API Configuration:** Direct connection to institution API servers.
-* **Student Identification:** Integrated student ID configuration for tracking progress.
-* **Hierarchical Structure:** Clear ``Module`` → ``Tutorial`` → ``Page`` organization.
-* **Workspace Integration:** Native workspace folder linking for developer education.
+**VS Code Integration:** Native sidebar viewer pane with auto-synchronized navigation.
+
+**Simple Installation:** Manual VSIX extension setup directly within VS Code.
+
+**API Configuration:** Direct connection to institution API servers.
+
+**Student Identification:** Integrated student ID configuration for tracking progress.
+
+**Hierarchical Structure:** Clear ``Module`` → ``Tutorial`` → ``Page`` organization.
+
+**Workspace Integration:** Native workspace folder linking for developer education.
 
 
 -------------------
