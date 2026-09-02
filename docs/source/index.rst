@@ -19,6 +19,7 @@ Platform Overview
 MARV bridges the gap between educational instructions and practical coding. Instead of context-switching between external web browsers, static documentation, and code editors, MARV delivers tutorial modules directly inside VS Code.
 
 Key Features & Workflow:
+
 * **VS Code Integration:** Native sidebar viewer pane with auto-synchronised navigation.
 * **Simple Installation:** Manual VSIX extension setup directly within VS Code.
 * **API Configuration:** Easy connection to institution API servers.
