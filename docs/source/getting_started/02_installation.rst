@@ -7,7 +7,7 @@ Currently, MARV is delivered directly as a Visual Studio Code extension package 
 Installation Steps
 ------------------
 
-1. Download the official MARV extension package file (e.g., marv-extension.vsix) from your university or course portal.
+1. Download the official MARV extension package file (e.g., marv-extension.vsix) from the module area on blackboard. This can be found within the "Teaching and Development Environments" section.
 2. Open **Visual Studio Code**.
 3. Click the **Extensions Icon** on the primary sidebar on the left (or press Cmd+Shift+X on macOS / Ctrl+Shift+X on Windows/Linux).
 4. Click the **Views and More Actions** menu (the ... icon) in the top-right corner of the Extensions panel.
