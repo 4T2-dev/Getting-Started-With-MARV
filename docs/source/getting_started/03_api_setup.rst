@@ -15,7 +15,7 @@ Configuring the API Endpoint
 3. Click on the status banner text.
 4. An input box will appear at the top of VS Code. Enter the official server URL:
 
-..code-block:: text
+.. code-block:: text
 
    https://marv.computing.edgehill.ac.uk
 
