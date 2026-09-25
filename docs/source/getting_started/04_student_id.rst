@@ -28,4 +28,4 @@ Setting Your Student ID
    :width: 750px
 
 .. important::
-   **Accuracy Matters:** Ensure your Student ID is entered correctly. Your progress logs and automated assessment scores are linked to this ID for academic credit.
+   **Accuracy Matters:** Ensure your Student ID is entered correctly as this is used to log progress and in tutorials and portfolio tasks.
