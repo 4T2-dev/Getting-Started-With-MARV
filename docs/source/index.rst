@@ -13,7 +13,7 @@ Welcome to the official **MARV** (*Managed Activities, Review, and Validation*) 
 Platform Overview
 ------------------
 
-MARV bridges the gap between educational instructions and practical coding. Instead of context-switching between external web browsers, static documentation, and code editors, MARV delivers tutorial modules directly inside VS Code.
+MARV bridges the gap between educational instructions and practical coding. Instead of context-switching between external web browsers, static documentation, and code editors, MARV delivers tutorial modules directly inside VS Code IDE.
 
 Key Features & Workflow
 -----------------------
