@@ -4,9 +4,6 @@ MARV Platform & Getting Started Documentation
 
 Welcome to the official **MARV** (*Managed Activities, Review, and Validation*) documentation portal. MARV is an integrated platform designed for building and experiencing interactive developer education directly within Visual Studio Code.
 
-.. note::
-   **Quick Start:** Begin with the :doc: section to install the MARV VS Code extension and configure your API URL.
-
 .. image:: _static/images/available_tutorials.png
    :alt: MARV Extension Available Modules
    :align: center
@@ -29,7 +26,7 @@ Key Features & Workflow
 
 **Student Identification:** Integrated student ID configuration for tracking progress.
 
-**Hierarchical Structure:** Clear ``Module`` → ``Tutorial`` → ``Page`` organization.
+**Hierarchical Structure:** The MARV interface presents a nested folder structure where each ``Module`` contains ``Tutorials``, which are further broken down into individual ``Pages``.".
 
 **Workspace Integration:** Native workspace folder linking for developer education.
 
