@@ -28,4 +28,4 @@ Setting Your Student ID
    :width: 750px
 
 .. important::
-   **Accuracy Matters:** Ensure your Student ID is entered correctly as this is used to log progress and in tutorials and portfolio tasks.
+   **Accuracy Matters:** Ensure your Student ID is entered correctly as this is used to log progress in tutorials and portfolio tasks.
